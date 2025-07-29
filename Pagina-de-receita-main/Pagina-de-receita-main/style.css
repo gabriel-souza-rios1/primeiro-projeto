@@ -19,7 +19,7 @@ body{
 }
 
 main{
-   /*padding: 24px;*/
+   padding: 24px;
    
 }
 
@@ -42,4 +42,15 @@ p{
 h1, h2{
     color: #291B1A; 
     margin-bottom: 4px;
+}
+
+footer{
+    color: #F0E8C2;
+    margin-top: 24px;
+    padding: 16px;
+}
+
+footer{
+    color: #F0E8C2 ;
+    text-align: center;
 }
